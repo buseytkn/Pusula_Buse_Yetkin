@@ -1,7 +1,7 @@
 # FİZİKSEL TIP VE REHABİLİTASYON ANALİZİ - CASE ÇALIŞMASI
 
 ** Ad Soyad:** Buse Yetkin  
-** E-Posta:** ytkn.bs@gmail.com  
+** E-posta:** ytkn.bs@gmail.com  
 
 ## Proje Hakkında  
 Bu proje, fiziksel tıp ve rehabilitasyon alanına ait bir hasta veri seti üzerinde keşifsel veri analizi (EDA), veri temizleme (preprocessing) ve feature engineering adımlarını kapsamaktadır.  
